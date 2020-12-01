@@ -1,0 +1,141 @@
+.sp1{
+    font-size:larger;
+}
+
+.rasm,
+.chap,
+.ong{
+    display: inline-block;
+    padding: 10px 0px;
+   
+    
+}
+
+.logo{
+    font-size: 20px;
+    width: 300px;
+    height: 25px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+.ong{
+    margin-left: 300px;
+    
+}
+
+button{
+   background-color: #567b95;
+   color: white; 
+   padding: 10px;  
+   border-radius: 5px;
+    
+}
+
+*{
+    /* border: 1px solid red; */
+}
+
+.rasm{
+    margin-left: 350px;
+}
+
+.chiziq{
+    border-bottom: 1px solid grey;
+}
+
+.em{
+    font-style: italic;
+}
+
+.word{
+    font-size: 45px;
+}
+
+.geyts{
+    width: 950px;
+    height: 530px;
+}
+
+.iconka{
+    margin-left: 250px;
+}
+
+.iphone{
+    margin-left: 200px
+    
+}
+
+.span1{
+    margin-left: 400px;
+}
+
+/* .By{
+    margin-left: 200px;
+} */
+
+.fab,
+.fas,
+.far{
+    margin: 10px;
+}
+.yoz{
+    color: grey;
+}
+
+.text{
+    width: 500px;
+    margin-left: 400px;
+    font-size: 20px;
+}
+
+.orta{
+    margin-left: 550px;
+  
+}
+
+/* .little{
+ border-bottom: 1px solid green;
+ 
+} */
+
+.text2{
+    font-size: 20px;
+    margin-left: 400px;
+    width: 500px;
+}
+
+.It{
+    font-size: 20px;
+    margin-left: 350px;
+}
+   
+.astro-img{
+  width: 840px;
+  margin-left: 250px; 
+}
+
+.theo{
+  margin-left: 220px;
+}
+
+.tom{
+    width: 160px;
+   margin-left: 2px;
+   font-size: 30px;
+   
+}
+
+.right{
+    float: right;
+    
+}
+
+   
+.image2{
+    width: 100px;
+}
+
+  
+    
+  
